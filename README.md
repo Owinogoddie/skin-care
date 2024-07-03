@@ -5,7 +5,7 @@
 This documentation covers the Skin Care App, a web application built with Next.js, React, and TypeScript. The app is designed to provide personalized skincare solutions and is hosted on Vercel.
 
 - **Live URL**: [https://skin-care-omega.vercel.app/](https://skin-care-omega.vercel.app/)
-- **Repository**: [Your GitHub Repository URL]
+- **Repository**: [[Your GitHub Repository URL](https://github.com/Owinogoddie/skin-care.git)]
 
 ## Table of Contents
 
@@ -63,13 +63,12 @@ skin-care-app/
 - TypeScript
 - Framer Motion
 - Tailwind CSS
-- [Any other major libraries or tools]
 
 ## Installation
 
 1. Clone the repository:
 
- git clone [Your Repository URL]
+ git clone [[Your Repository URL](https://github.com/Owinogoddie/skin-care.git)]
 Copy
 2. Navigate to the project directory:
 cd skin-care-app
